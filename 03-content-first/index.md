@@ -51,4 +51,6 @@ Acting through inaction, he leaves nothing ungoverned.
 
 Inside the journal there is a section where the pages are black and the text is printed onto them in white color. This section contains poems from The Canon of Reason and Virtue by Lao Tzu, which was an ancient Chinese philosopher and writer. On this section's first and last page are hand-drawn sketches by Ludek Ryzner.
 
+![6](1)
+
 Some of the pages have a specific design on them. All the employees of Ok Plan Architects had the chance to create their own design of two pages inside the journal. They only had to come up with the idea, of what they wanted to put there and I created the design digitally. There are 12 personal designs in total. 
