@@ -1,10 +1,11 @@
-# Hi, I'm Zuzana!
+# Hi, I'm Zuzana! :cherry_blossom:
 
 Hiii
 
 My name is Zuzana and I'm a graphic designer. I'm also an illustrator, which means that in my design, I like to use illustrations.
-I'm currently working as a graphic designer for Bonami - a Czech company that sells furniture and decorations. 
-In my free time, I create digital paintings in Procreate - you can see more of my work on Instagram 
+I'm currently finishing my Bachelor studies at the Prague School of Creative Communication.
+I work as a graphic designer for Bonami - a Czech company that sells furniture and decorations. 
+In my free time, I create digital paintings in Procreate. 
 
 - [Alternative Text](01-alternative-text/index.md)
 - [First impression](02-first-impression/index.md)
