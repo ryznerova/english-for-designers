@@ -9,16 +9,16 @@ In my free time, I create digital paintings in Procreate.
 
 ## Wanna know more?
 
-- [About Me](02-first-impression/index.md)
-- [My CV](04-experience/index.md)
-- [Voice & Tone](05-voice-tone/index.md)
+- [About Me 🙋‍♀️](02-first-impression/index.md)
+- [My CV 🔍](04-experience/index.md)
+- [Voice & Tone 👀](05-voice-tone/index.md)
 - Contact me: z.ryznerova@gmail.com
 
 ## My Work
 
-- [OK Plan Architects](03-content-first/index.md)
+- [OK Plan Architects 📐](03-content-first/index.md)
 
 ## Extras
 
-- [Alternative Text](01-alternative-text/index.md)
-- [Takeaways](06-takeaways/index.md)
+- [Alternative Text ✏️](01-alternative-text/index.md)
+- [Takeaways 📝](06-takeaways/index.md)
