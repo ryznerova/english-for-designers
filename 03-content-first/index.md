@@ -45,7 +45,7 @@ so that those who know will not dare to act.
 Acting through inaction, he leaves nothing ungoverned.
 
 
-  - Lao-tzu
+  – Lao-tzu
                                                                                           
 ![5](4.jpg)
 
