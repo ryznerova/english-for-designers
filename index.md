@@ -1,4 +1,4 @@
-# Hi, I'm Zuzana! :cherry_blossom:
+# Hi, I'm Zuzana! 🌸
 
 Hiii
 
