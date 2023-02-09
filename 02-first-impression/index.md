@@ -8,6 +8,6 @@ I work as a graphic designer for Bonami - a Czech company that sells furniture a
 
 In my free time, I create digital paintings in Procreate. 
 
-![1](1.JPG) ![2](2.JPG)
+![1](1.jpg) ![2](2.jpg)
 
 You can see more of my illustrations on <a href="https://www.instagram.com/art_by_zuz/">Instagram!</a>
