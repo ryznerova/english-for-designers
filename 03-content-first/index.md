@@ -21,16 +21,27 @@ The cover is made out of 500gsm black paper. The higher the gsm number is, the l
 ![4](8.jpg)
 
 Exalt not the worthy,
+
 so that the people will not fight.
+
 Prize not the rare treasure,
+
 so that they will not steal.
+
 Exhibit not the desirable,
+
 so that their hearts will not be distracted.
-Therefore in governing, the Sage
-empties the people's hearts and fills their stomachs,
+
+Therefore in governing,
+
+the Sage empties the people's hearts and fills their stomachs,
+
 weakens their will and strengthens their bones.
-He always keeps them void of knowledge and desire,                                                                                                   
-so that those who know will not dare to act. 
+
+He always keeps them void of knowledge and desire,
+
+so that those who know will not dare to act.
+
 Acting through inaction, he leaves nothing ungoverned.
                
                                              - Lao-tzu
