@@ -3,6 +3,8 @@
 ### Duration: 2 months
 ### Published: September 2022
 
+
+
 Ok Plan Architects is an architectural studio located in Humpolec and Prague. Luděk Rýzner founded the company in 1999 and wanted to celebrate its 23rd anniversary by publishing an Ok Plan Journal.
 
 ![1](2.jpg)
