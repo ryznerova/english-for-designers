@@ -13,33 +13,33 @@ I'm a graphic designer and illustrator now living in Prague.
     - Used softwares: Illustrator, Photoshop, InDesign, Figma, Slack, Asana
 
 - ### Future Port Youth, Graphic Designer (May 2022 - Oct 2022)
-- Rebranding and creating digital visuals
-  - New visual for this year's conference, new face of FPY website, social media posts
-  - Communication via Google Meets, Slack and ClickUp
-  - Used softwares: Illustrator, Photoshop, Figma, Slack, ClickUp
+  - Rebranding and creating digital visuals
+    - New visual for this year's conference, new face of FPY website, social media posts
+    - Communication via Google Meets, Slack and ClickUp
+    - Used softwares: Illustrator, Photoshop, Figma, Slack, ClickUp
 
 - ### OK Plan Architects, Graphic Designer
-- Creating new notebook (see more <a href="https://ryznerova.github.io/english-for-designers/03-content-first/">here</a>)
-  - Typeset
-  - Used softwares: InDesign, Photoshop, Illustrator
+  - Creating new notebook (see more <a href="https://ryznerova.github.io/english-for-designers/03-content-first/">here</a>)
+    - Typeset
+    - Used softwares: InDesign, Photoshop, Illustrator
 
 ## Education
 
 - ### University of Creative Communication
-- 2020 - present
+  - 2020 - present
 
 - ### Czech Technical University, Faculty of Architecture
-- 2017 - 2020
+  - 2017 - 2020
 
 ## Additional Education
 
 - ### Deliver Meaningful Feedback & Inspire Performance Course
-- Sep 2022, online
+  - Sep 2022, online
 
 - ### Summer School, Nottingham Trent University
-- Aug 2015, Nottingham
-  - Architecture for 15 - 17 Year Olds, one week course
-  - Theatre Design for 15 - 17 Year Olds, one week course
+  - Aug 2015, Nottingham
+    - Architecture for 15 - 17 Year Olds, one week course
+    - Theatre Design for 15 - 17 Year Olds, one week course
 
 ## Skills
 
