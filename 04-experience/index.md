@@ -19,6 +19,6 @@ I'm a graphic designer and illustrator now living in Prague.
   - Used softwares: Illustrator, Photoshop, Figma, Slack, ClickUp
 
 - ### OK Plan Architects, Graphic Designer
-- Creating new notebook (see more
+- Creating new notebook (see more <a href="https://www.instagram.com/art_by_zuz/">here</a>)
 
 ![CV](CV.jpg)
