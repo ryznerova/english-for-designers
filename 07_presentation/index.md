@@ -61,9 +61,10 @@ You've arrived home. What now? Pick up some good old games, that you loved as a 
 ![11](11.png)
 
 ### READ CHILDREN'S FANTASY
-It's quite late, your PlayStation is fried, and you should probably go to bed. You don't want this day to end? Well, you could try to do some reading. How about picking up some children's fantasy? Harry Potter, Narnia, Percy Jackson. Those are easy to read and they're quite engaging.
+It's quite late, your computer is fried, and you should probably go to bed. You don't want this day to end? Well, you could try to do some reading. How about picking up some children's fantasy? Harry Potter, Narnia, Percy Jackson. Those are easy to read and they're quite engaging.
 
 ![12](12.png)
+
 Apparently, I don't have a picture of me reading, so here is a picture of me with a random bell.
 
 ### DIDN'T WORK?
