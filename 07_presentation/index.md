@@ -27,7 +27,7 @@ Though, I have an alternative. Play with a dog (hopefully, you're not allergic).
 
 ![5](5.png)
 
-### EAT YOUR FAVOURITE CHILDHOOD SWEETS
+### EAT YOUR FAVORITE CHILDHOOD SWEETS
 Go to a grocery shop and buy all your favorite candies and sweets, that you loved as a child and binge on them.
 
 ![6](6.png)
