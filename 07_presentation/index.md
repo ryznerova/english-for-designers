@@ -44,7 +44,7 @@ I loved playing with my dog Baron (he really hated it most of the time by the wa
 ![8](8.png)
 
 ### SPOIL YOURSELF
-Now that your dog is fed up with you, it's time to go shopping. As kids, we all had toys that we desperately want it. And I bet, you still have your wish list. Even if it's not filled with toys, but with shoes, clothes, or whatever you like. So go for it. Buy some of the things you really want. Yes, your account is going to be crying and you might have to eat plain toast for the rest of the month, but that is a problem of the tomorrow YOU. 
+Now that your dog is fed up with you, it's time to go shopping. As kids, we all had toys that we desperately wanted. And I bet, you still have your wish list. Even if it's not filled with toys, but with shoes, clothes, or whatever you like. So go for it. Buy some of the things you really want. Yes, your account is going to be crying and you might have to eat plain toast for the rest of the month, but that is a problem of the tomorrow YOU. 
 
 ![9](9.png)
 
