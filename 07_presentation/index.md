@@ -65,7 +65,7 @@ It's quite late, your computer is fried, and you should probably go to bed. You 
 
 ![12](12.png)
 
-Apparently, I don't have a picture of me reading, so here is a picture of me with a random bell.
+Apparently, I don't have a picture of me reading, because my mum didn't find that interesting. What she did find interesting was this random bell.
 
 ### DIDN'T WORK?
 Well, you can always drink some alcohol, because that can turn an adult into a child for sure!
