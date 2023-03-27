@@ -23,7 +23,7 @@ So today I'm going to show you a couple of ways to try to find your inner child'
 ### PLAYTIME WITH KIDS
 The easiest way to unlock your inner child would be to play with an actual child. I'm always surprised by how my small cousins see the world, and I get inspired by it quite a lot. And hear me out, I'm not saying that if you don't have cousins, you should go to a playground and kidnap one. I mean, you can, but don't bring me into it.
 
-Though, I have an alternative. Play with a dog (hopefully, you're not allergic). Dogs are your play buddies forever...even if they don't want to that much.
+Though, I have an alternative. Play with a dog (hopefully, you're not allergic). Dogs are your play buddies forever...even if they're not willing participants. 
 
 ![5](5.png)
 
