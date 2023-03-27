@@ -22,3 +22,4 @@ In my free time, I create digital paintings in Procreate.
 
 - [Alternative Text ✏️](01-alternative-text/index.md)
 - [Takeaways 📝](06-takeaways/index.md)
+- [Presentation 📋](07_presentation/index.md)
