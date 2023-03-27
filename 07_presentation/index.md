@@ -38,7 +38,7 @@ So now, that you have all those candies and you're eating them, try to remember 
 ![7](7.png)
 
 ### DO SOMETHING YOU LOVED DOING AS A CHILD
-You ate all your cookies, you remembered all the good stuff and with that might have come up with an idea to do something you loved as a child again. So do it. 
+You ate all your cookies, you remembered all the good stuff and with that might have come up an idea to do something you loved as a child again. So do it. 
 I loved playing with my dog Baron (he really hated it most of the time by the way). So now, the legacy of my oldest friend can continue via my dog Lars. Because he also has to play with me.
 
 ![8](8.png)
