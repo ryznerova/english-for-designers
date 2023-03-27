@@ -5,14 +5,17 @@
 Sometimes, especially these days, I feel like my creativity has run out. We are all finishing our bachelor's thesis, so if you're running out of creativity, it kinda sucks. 
 
 ![2](2.png)
+
 Usually, I would just sit on the couch, and watch some tv, hoping that that would make me more creative. I would go for a walk with my dog, cook a new recipe, and do all the things adults tell you to do if you've run into a wall. But it never got me anywhere. 
 
 ![3](3.png)
+
 So I was thinking: Why is this shit not working?! And that was when I realized, that all these articles trying to help you get more creative, are all the same. So how are they supposed to help us, when not even the authors are creative.
 
 Maybe you feel the same way. 
 
 ![4](4.png)
+
 Well! Here I am with the idea to try to find your creative inner child (and I'm not saying that I'm the only one, who've come up with this idea, but at least I'm not one out of a million)! 
 
 So today I'm going to show you a couple of ways to try to find your inner child's creativity.
