@@ -72,4 +72,4 @@ Jaroslav Fragner Gallery doesn't communicate online or in print. So the next ste
 
 ![24](Instagramovy_profil_Fragnerky.png)
 
-You can find my OG presentation <a href="https://drive.google.com/drive/folders/1dnKkFJTmvp3gGqHjSxoNrqOeBA5UA1Qj?usp=share_link">here!</a>
+[PDF file is here!](Story_telling_presentation.pdf)
