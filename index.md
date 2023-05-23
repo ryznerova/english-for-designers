@@ -21,7 +21,7 @@ In my free time, I create digital paintings in Procreate.
 ## My Bachelor Thesis
 
 - [Abstract 📄](08_abstract/index.md)
-- [Presentation 🏁](09_presentation/index.md)
+- [Presentation 🏁](09_Thesis/index.md)
 
 ## Extras
 
