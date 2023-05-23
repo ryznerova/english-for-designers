@@ -12,9 +12,9 @@ After finding my inspiration, I started working. First I changed the gallery to 
 
 After these changes, I started to work on the visuals. First I created a logo and a logo symbol. So the logo is typographic and it is written in a font called General Sans, which I later chose for the whole communication. The logo symbol is a letter F composed of geometric shapes that refer to architecture. The logo symbol is much more robust, so it's easily recognized from farther away. The logo and the symbol are never used together. For example in publications logo is on the front of the book and the logo symbol is on the spine. My goal for the logo was to create something that can be flexible. You can see it in the logo and logo symbol for FragnerKafé (a café in Fragnerka). The logo symbol was created by reshaping the letter F, so it looks like a cup.
 
-![2](Logo, logo symbol Fragnerka.png)
+![2](Logo,logo_symbol_Fragnerka.png)
 
-![3](Logo, logo symbol FragnerKafé.png)
+![3](Logo,logo_symbol_FragnerKafé.png)
 
 Then I chose the color palette. I wanted something youthful that would also refer to architecture. So as a main color, I chose red which refers to bricks. It is combined with blue (refers to the color of a pen), green (refers to urbanism), and white (refers to paper).
 
@@ -32,42 +32,42 @@ Here you can see,  how these elements can be used in graphics. For example on ti
 
 ![7](Vstupenky.png)
 
-![8](Pozvánky.png)
+![8](Pozvanky.png)
 
-![9](Brožura.png)
+![9](Brozura.png)
 
-![10](Mikina Fragnerka.png)
+![10](Mikina_Fragnerka.png)
 
-![11](Látková taška Fragnerka.png)
+![11](Latkova_taska_Fragnerka.png)
 
-![12](Ponožky Fragnerka.png)
+![12](Ponozky_Fragnerka.png)
 
 Now I'm going to talk about publications. Jaroslav Fragner Gallery publishes quite a lot of publications, but they don't pay that much attention to them. So they are not very engaging. I want Fragnerka to keep publishing, but focus more on the design. Here you can see, how I'm using the same elements, that I chose for the brand.
 
-![13](Obálka knihy_1.png)
+![13](Obalka_knihy_1.png)
 
-![14](Obálka knihy_2.png)
+![14](Obalka_knihy_2.png)
 
-![15](Obálka knihy_3.png)
+![15](Obalka_knihy_3.png)
 
-![16](Obálka knihy_4.png)
+![16](Obalka_knihy_4.png)
 
-![17](Celá obálka knihy_1.png)
+![17](Cela_obalka_knihy_1.png)
 
-![18](Celá obálka knihy_2.png)
+![18](Cela_obalka_knihy_2.png)
 
-![19](Celá obálka knihy_3.png)
+![19](Cela_obalka_knihy_3.png)
 
-![20](Celá obálka knihy_4.png)
+![20](Cela_obalka_knihy_4.png)
 
 ![21](layout.png)
 
 The main goal of the new campaign is to raise awareness of Fragnerka and to increase the number of visitors. The first step was the change of program. Instead of just exhibitions, Fragnerka also offers lectures, workshops, commented strolls around Prague, and much more. Then it was engaging ČVUT in this program.
 
-![22](Plakáty Fragnerka_menší.png)
+![22](Plakaty_Fragnerka_mensi.png)
 
-![23](Plakát Fragnerka.png)
+![23](Plakat_Fragnerka.png)
 
 Jaroslav Fragner Gallery doesn't communicate online or in print. So the next step is to be active on social media and to post posters around Prague and in ČVUT. There is one thing, that I don't want to change about their current communication. And that is selling their publications in bookstores. I believe this is the right way to catch the attention of more people.
 
-![24](Instagramový profil Fragnerky.png)
+![24](Instagramovy_profil_Fragnerky.png)
