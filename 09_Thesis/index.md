@@ -14,7 +14,7 @@ After these changes, I started to work on the visuals. First I created a logo an
 
 ![2](Logo,logo_symbol_Fragnerka.png)
 
-![3](Logo,logo_symbol_FragnerKafé.png)
+![3](Logo,logo_symbol_FragnerKafe.png)
 
 Then I chose the color palette. I wanted something youthful that would also refer to architecture. So as a main color, I chose red which refers to bricks. It is combined with blue (refers to the color of a pen), green (refers to urbanism), and white (refers to paper).
 
