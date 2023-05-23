@@ -79,3 +79,5 @@ So have you noticed something? All of these are not about ways to be more creati
 I believe this one thing.
 A happy brain equals a creative brain.
 So if you're feeling stuck, do something that makes you happy and you'll see, that new ideas will certainly arise.
+
+You can find my OG presentation <a href="https://drive.google.com/drive/folders/1dnKkFJTmvp3gGqHjSxoNrqOeBA5UA1Qj?usp=share_link">here!</a>
