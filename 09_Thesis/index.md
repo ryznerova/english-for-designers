@@ -72,4 +72,4 @@ Jaroslav Fragner Gallery doesn't communicate online or in print. So the next ste
 
 ![24](Instagramovy_profil_Fragnerky.png)
 
-[PDF file is here!](Story_telling_presentation.pdf)
+[OG PDF file is here!](Thesis_presentation.pdf)
