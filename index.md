@@ -20,11 +20,12 @@ In my free time, I create digital paintings in Procreate.
 
 ## My Bachelor Thesis
 
-- [Abstract](08_abstract/index.md)
-- [Presentation](03-content-first/index.md)
+- [Abstract 📄](08_abstract/index.md)
+- [Presentation 🏁](09_presentation/index.md)
 
 ## Extras
 
 - [Alternative Text ✏️](01-alternative-text/index.md)
 - [Takeaways 📝](06-takeaways/index.md)
 - [Presentation 📋](07_presentation/index.md)
+- [Year End Review 🎉](10_Year_end_review/index.md)
