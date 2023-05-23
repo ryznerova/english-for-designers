@@ -80,4 +80,4 @@ I believe this one thing.
 A happy brain equals a creative brain.
 So if you're feeling stuck, do something that makes you happy and you'll see, that new ideas will certainly arise.
 
-[PDF file is here!](Story_telling_presentation.pdf)
+[OG PDF file is here!](Story_telling_presentation.pdf)
