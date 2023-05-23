@@ -6,7 +6,7 @@ The opportunity to talk in English. I don't really have many chances to speak in
 
 ### 2) What did you like least about this course?
 
-For me, this semester was really stressful and I needed to concentrate on finishing my bachelor's thesis. And it felt like we were getting more time-consuming work the more the closer the end of the semester was getting. So instead of focusing on the thesis, I had to work on the last assignments and it made me even more stressed. It felt like we had less work in the previous semester, which is kind of inconvenient, since we had more free time, than this semester.
+For me, this semester was really stressful and I needed to concentrate on finishing my bachelor's thesis. And it felt like we were getting more time-consuming work the closer the end of the semester was getting. So instead of focusing on the thesis, I had to work on the last assignments and it made me even more stressed. It felt like we had less work in the previous semester, which is kind of inconvenient, since we had more free time, than this semester.
 
 ### 3) What were the top (three) things you learned this year?
 
