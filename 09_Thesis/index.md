@@ -71,3 +71,5 @@ The main goal of the new campaign is to raise awareness of Fragnerka and to incr
 Jaroslav Fragner Gallery doesn't communicate online or in print. So the next step is to be active on social media and to post posters around Prague and in ČVUT. There is one thing, that I don't want to change about their current communication. And that is selling their publications in bookstores. I believe this is the right way to catch the attention of more people.
 
 ![24](Instagramovy_profil_Fragnerky.png)
+
+You can find my OG presentation <a href="https://drive.google.com/drive/folders/1dnKkFJTmvp3gGqHjSxoNrqOeBA5UA1Qj?usp=share_link">here!</a>
