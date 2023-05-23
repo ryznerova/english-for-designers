@@ -18,6 +18,11 @@ In my free time, I create digital paintings in Procreate.
 
 - [OK Plan Architects 📐](03-content-first/index.md)
 
+## My Bachelor Thesis
+
+- [Abstract](08_abstract/index.md)
+- [Presentation](03-content-first/index.md)
+
 ## Extras
 
 - [Alternative Text ✏️](01-alternative-text/index.md)
