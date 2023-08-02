@@ -13,7 +13,7 @@ First I wanted to set up the look of the pages and create a simple layout. From 
 
 ![2](9.jpg)
 
-I decided to use an exposed sewn stitch bookbinding. That means the number of pages that is dividable by 8. I chose a pink thread because it's one of Ok Plan Architects' brand colors.
+I decided to use an exposed sewn stitch bookbinding. That means the number of pages is dividable by 8. I chose a pink thread because it's one of Ok Plan Architects' brand colors.
 The cover is made out of 500gsm black paper. The higher the gsm number is, the longer it will last without damage.
 
 ![3](6.jpg)
