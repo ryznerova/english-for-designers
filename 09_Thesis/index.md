@@ -2,7 +2,7 @@
 
 In my bachelor thesis, I'm focusing on the unification of visual elements with marketing communication for Jaroslav Fragner Gallery. One of the reasons why I chose this gallery is that its main theme is architecture, which I studied for three years. So I wanted to combine my knowledge of graphic design with architecture.
 
-I've known this gallery for years and I've been noticing, that not many people know about this gallery, even though it is located in the historic center of Prague. Whenever I went to see an exhibition, no one was there. I feel like it is a waste of opportunity because there are not that many galleries, that are focused on architecture. So I decided to come up with a new solution.
+I've known this gallery for years and throughout the years I've been noticing, that not many people know about this gallery, even though it is located in the historic center of Prague. Whenever I went to see an exhibition, no one was there. I feel like it is a waste of opportunity because there are not that many galleries, that are focused on architecture. So I decided to come up with a new solution.
 
 ![1](14_01.jpg)
 
